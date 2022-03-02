@@ -23,7 +23,3 @@ Disallow: /links/
 Disallow: /cv/
 
 Disallow: /404.html
-
-Disallow: /home/
-Disallow: /we-need-you/
-Disallow: /mhc-fe/
